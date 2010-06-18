@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Liqpay Donate v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-14 01:44+0300\n"
+"PO-Revision-Date: 2010-06-14 12:21+0300\n"
+"Last-Translator: Sergey Bordyzhan <sergey@icom.kiev.ua>\n"
+"Language-Team: Icom Organization <sergey@icom.kiev.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Ukrainian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: J:\\home\\word\\www\\wp-content\\plugins\\liqpay\n"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:42
+msgid "Title Liqpay Donate"
+msgstr "Заголовок Liqpay Donate"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:45
+msgid "Title text:"
+msgstr "Текст заголовка:"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:49
+msgid "Options Liqpay Donate"
+msgstr "Настройки Liqpay Donate"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:52
+msgid "Merchant ID:"
+msgstr "ID мерчанта:"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:55
+msgid "Redirect after payment:"
+msgstr "Редірект після платіжа:"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:58
+msgid "Payment description:"
+msgstr "Призначення платежу:"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:61
+msgid "Amount:"
+msgstr "Сума:"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:66
+msgid "Appearance Liqpay Donate"
+msgstr "Зовнішній вигляд Liqpay Donate"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:71
+msgid "Graphics button"
+msgstr "Кнопка із зображенням"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:76
+msgid "Standart button"
+msgstr "Звичайна кнопка"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:115
+msgid "Donate"
+msgstr "Пожертвувати"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:128
+msgid "on site development"
+msgstr "на розвиток сайту"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:128
+msgid "Pay"
+msgstr "Сплатити"
+
+#: J:\home\word\www\wp-content\plugins\liqpay/liqpay.php:131
+msgid "To pay by means of LiqPAY"
+msgstr "Сплатити за допомогою LiqPAY"
+
